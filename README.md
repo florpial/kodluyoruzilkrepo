@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
-Bu repo kodluyoruz eğitimi kapsamında açtığımız ilk repo. Bir adet README bir adet index.html dosyası barındırıyor. 
+Bu repo kodluyoruz eğitimi kapsamında açtığımız ilk repo. Bir adet README, bir adet index.html, bir adet ilk-repo.png dosyası barındırıyor. 
 
+![ilk-repo](https://github.com/florpial/kodluyoruzilkrepo/blob/main/ilk-repo.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. 
